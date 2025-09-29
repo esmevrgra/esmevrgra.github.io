@@ -14,7 +14,7 @@ Working on the first draft of my portfolio. :D
 
 ## SKILLS & PROJECTS
 
-* **Languages:** Python, C++
+* **Languages:** Python, C++, HTML, CSS
 
 
 ---
